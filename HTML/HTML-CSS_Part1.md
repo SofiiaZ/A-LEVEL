@@ -33,3 +33,10 @@
 
 :books: Структура HTML-документа
 ---------
+
+.main-menu {
+    display: inline-block;
+    background-color: black;
+    padding: 5px 10px;
+    color: white;
+}
