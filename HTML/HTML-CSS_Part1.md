@@ -34,9 +34,31 @@
 :books: Структура HTML-документа
 ---------
 
-    .main-menu {
-        display: inline-block;
-        background-color: black;
-        padding: 5px 10px;
-        color: white;
-    }
+Язык HTML следует правилам, которые содержатся в файле объявления типа документа (Document Type Definition, или DTD).
+
+DTD представляет собой XML-документ, определяющий, какие теги, атрибуты и их значения действительны для конкретного типа HTML. Для каждой версии HTML есть свой DTD.
+
+DOCTYPE отвечает за корректное отображение веб-страницы браузером. DOCTYPE определяет не только версию HTML (например, html), но и соответствующий DTD-файл в Интернете.
+
+    <!-- Объявление формата документа -->
+    <!DOCTYPE html>  
+    <html>
+
+    <head>
+      <!-- Определяем кодировку символов документа --> 
+      <meta charset="utf-8">
+      <!-- Устанавливаем параметры отображения страницы на мобильных устройствах -->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <!-- Задаем заголовок документа --> 
+      <title>Title</title>
+      <!-- Подключаем внешнюю таблицу стилей --> 
+      <link media="all" rel="stylesheet" href="css/main.css">
+      <!-- Подключаем скрипты --> 
+      <script src="js/main.js"></script>
+    </head>
+
+    <body>
+      <!-- Основная часть документа --> 
+    </body>
+
+    </html> 
