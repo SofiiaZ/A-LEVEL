@@ -99,3 +99,19 @@ Keys 2
 -----------------------------
 
 С помощью тегов \<ol> и \<li> постройте списки, показанные на рис.
+![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/HTML/Pattern.bmp)
+
+:heavy_check_mark: Part III. Верстка страницы
+-----------------------------
+
+Средствами HTML смоделировать и разработать страничку, которая реализиует описанный функционал:
++ шапка
++ основное содердимое
++ сайбар
++ футер
++ наполнить его корректным контентов в соответсвии к выбранной области.
+
+![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/HTML/Maket.bmp)
+
+Пример реализованной страницы
+![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/HTML/PageExample.bmp)
