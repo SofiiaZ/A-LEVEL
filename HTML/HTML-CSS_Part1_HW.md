@@ -98,7 +98,7 @@ Keys 2
 :heavy_check_mark: Part II. Нумерованные списки
 -----------------------------
 
-С помощью тегов \<ol> и \<li> постройте списки, показанные на рис.
+С помощью тегов \<ol> и \<li> постройте списки, показанные на рис.   
 ![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/HTML/List.bmp)
 
 :heavy_check_mark: Part III. Верстка страницы
