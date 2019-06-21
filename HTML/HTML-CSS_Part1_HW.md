@@ -6,6 +6,7 @@ Part I. Исправление ошибок
 
 Исправьте ошибки в приведенном коде
 1. 
+```
  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
  <html>
   <head>
@@ -24,7 +25,7 @@ Part I. Исправление ошибок
    </p>
   </body>
  </html>
-
+```
 
 
 
@@ -32,23 +33,24 @@ Part I. Исправление ошибок
 
 Keys
 1.
+```
  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
  <html>
   <head>
    <meta http-equiv="Content-Type" content="text/html; charset=utf-18">
-   <title>Галион</title>
-  </head>
+   **<title>Галион</title>
+  </head>**
   <body>
    <h11 align="justify">Галион</h1>
    <p align="justify">
-   <strong>Галион</b></strong> - большое трехмачтовое судно особо прочной постройки, 
+   <strong>Галион**</strong>** - большое трехмачтовое судно особо прочной постройки, 
      снабженное тяжелой артиллерией.</br>
      Эти суда служили для перевозки товаров и драгоценных металлов из испанских и португальских
      колоний в Европу.</p>
    <hr>
    <blockquote>Флагманский корабль был мощным <i>галионом</i>, вооруженным сорока восьмью
      большими пушками и восьмью малыми.</blockquote>
-   </hr>
-   </p>
+   **<hr>**
    </body>
    </html> 
+```
