@@ -99,7 +99,7 @@ Keys 2
 -----------------------------
 
 С помощью тегов \<ol> и \<li> постройте списки, показанные на рис.
-![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/HTML/Pattern.bmp)
+![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/HTML/List.bmp)
 
 :heavy_check_mark: Part III. Верстка страницы
 -----------------------------
