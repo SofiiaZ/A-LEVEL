@@ -1,11 +1,11 @@
 Homework
 ========
 
-Part I. Исправление ошибок 
+:heavy_check_mark: Part I. Исправление ошибок 
 -----------------------------
 
 Исправьте ошибки в приведенном коде
-1. 
+Task 1
 ```
  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
  <html>
@@ -27,12 +27,32 @@ Part I. Исправление ошибок
  </html>
 ```
 
+Task 2
+```
+  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+   <html>
+   <head>
+   <meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+   </head>
+   <body>
+   <P>Эйлер, Леонард (Leonhard Euler, 1707-1783)
+
+   <A href="#E6_1" target=b">44</A>, 
+   <A href="#E6_2" target=b">67</A>, 
+
+   <A href="#E6_3" target=b">73</A>, <SPAN
+   A name=6_1></A>Леонард Эйлер обратился к своему другу <A name=K13></A>Клеро с просьбой 
+   поискать в доме Ферма, не осталось ли где-нибудь клочка бумаги с жизненно 
+   важным фрагментом доказательства.
+ </body>
+ </html>
+```
 
 
 
 
-Keys
-1.
+
+Keys 1
 ```
  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
  <html>
@@ -54,3 +74,28 @@ Keys
    </body>
    </html> 
 ```
+Keys 2
+```
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  **"http://www.w3.org/TR/html4/loose.dtd">**
+ <html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-12501">
+  **<title>Эйлер Леонард</title>**
+ </head>
+ <body>
+  <P>Эйлер, Леонард (Leonhard Euler, 1707-1783)
+  <A href="#E6_1" target=**"**b">44</A>,
+  <A href="#E6_2" target=**"**b">67</A>,
+  <A href="#E6_3" target=**"**b">73</A>, <SPANA name=**"E**6_1**"**></A>Леонард Эйлер обратился 
+  к своему другу <A name="K13"></A>Клеро с просьбой
+   поискать в доме Ферма, не осталось ли где-нибудь клочка бумаги с жизненно 
+   важным фрагментом доказательства.**</p>**
+  </body>
+  </html>
+  ```
+  
+:heavy_check_mark: Part II. Нумерованные списки
+-----------------------------
+
+С помощью тегов \<ol> и \<li> постройте списки, показанные на рис.
