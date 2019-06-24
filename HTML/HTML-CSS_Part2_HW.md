@@ -31,10 +31,16 @@ Homework
 :heavy_check_mark: Part III. Ниспадающее меню
 -----------------------------
 
-Сделайте ниспадающее меню, показанное на рисунках.
+Сделайте ниспадающее меню, показанное на рисунках.   
 ![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/HTML/Menu.bmp)
 
-:heavy_check_mark: Part IV. Верстка страницы
+:heavy_check_mark: Part IV. Двойная рамка
+-----------------------------
+
+Сделайте рамку вокруг блока, как показано на рис.   
+![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/HTML/Ramka.bmp)
+
+:heavy_check_mark: Part V. Верстка страницы
 -----------------------------
 
 Для задания из предыдущего урока перенести все стили в файл css. Результирующая страница измениться не должна. 
