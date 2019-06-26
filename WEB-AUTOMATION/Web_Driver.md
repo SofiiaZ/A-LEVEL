@@ -42,6 +42,8 @@ SELENIUM
 Инструменты для сборки Java проекта
 ======
 
+![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/WEB-AUTOMATION/VS.bmp)   
+
 Maven
 ------
 
