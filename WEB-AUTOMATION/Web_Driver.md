@@ -37,7 +37,9 @@ SELENIUM
 + организовать тестовый стенд для выполнения большого количества тестов,
 Вам нужен *Selenium Server* - он может принимать команды с удалённой машины, где работает сценарий автоматизации, и исполнять их в браузере. Несколько серверов Selenium могут образовывать распределённую сеть, которая называется *Selenium Grid*, что позволяет легко масштабировать стенд автоматизации.
 
-![Image alt](https://github.com/SofiiaZ/A-LEVEL/tree/master/WEB-AUTOMATION/Selenium.bmp)   
+![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/HTML/DOM.bmp)
+
+WEB-AUTOMATION/Selenium.bmp)   
 
 Инструменты для сборки Java проекта
 ======
