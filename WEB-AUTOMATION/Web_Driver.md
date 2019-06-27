@@ -114,3 +114,105 @@ Create first test
 5. Заполняем обязательные поля -> Finish
  
 :heavy_check_mark: Проект создан!
+
+:heavy_plus_sign: Подключаем Maven dependencies
+======
+
+для этого добавляем код приведенный ниже в файл pom.xml
+
+```
+    <dependencies>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>3.141.59</version>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.14.3</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.14.3</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+```
+
+:heavy_plus_sign: Создаем класс в котором будет храниться тест.
+======
+
+:heavy_plus_sign: Создаем метод с аннотацией \@Test и добавляем в него приведенный ниже код
+======
+
+```
+@Test
+    public void checkGoogle() {
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\sofiia.zaitseva\\Desktop\\chromedriver.exe");
+        WebDriver driver = new ChromeDriver();
+        driver.get("http://www.google.com");
+
+        Boolean bool = driver.findElement(By.xpath("//*[@alt='Google']")).isDisplayed();
+        System.out.println(bool);
+
+        Assert.assertTrue(bool, "Google page is opened successfully");
+        driver.quit();
+    }
+```
+    
+:white_check_mark: Для запуска теста необходимо кликнуть на "зеленую стрелку" возле сигнатуры метода. Для запуска сьюта, следует проделать идентичное действие на уровне класса.
+
+Выводы
+--------
+
++ Webdriver - самая важная сущность, отвественная за управление браузером. Основной ход скрипта/теста строится именно вокруг экземпляра этой сущности.
+
++ Webelement - вторая важная сущность, представляющая собой абстракцию над веб элементом (кнопки, ссылки, инпута и др.). Webelement инкапсулирует методы для взаимодействия пользователя с элементами и получения их текщего статуса.
+
++ By - абстракция над локатором веб элемента. Этот класс инкапсулирует информацию о селекторе(например, CSS), а также сам локатор элемента, то есть всю информацию, необходимую для нахождения нужного элемента на странице.   
+
+ОТКРЫТИЕ СТРАНИЦЫ
+-----
+
+Для того, чтобы перейти на страницу используется метод get
+```driver.get("http://www.google.com");```
+
+В зависимости от определенных факторов, включая комбинацию OS/Browser, WebDriver может ждать, а может и не ждать пока страница полностью загрузится.
+
+ПЕРЕХОД ПО ТАБКАМ БРАУЗЕРА И ФРЕЙМАМ
+-------
+
+Для того, чтобы перейти на другую табку используется следующий метод:
+```driver.switchTo().window("windowName");```
+
+Название окна можно поискать в html разметке
+```<a href="somewhere.html" target="windowName">Click here to open a new window</a>```
+
+Либо пройтись по всем табкам
+
+```
+for (String handle : driver.getWindowHandles()) {
+driver.switchTo().window(handle);
+}
+```
+
+Метод который позволяет переключится между фреймами.
+```driver.switchTo().frame("frameName");```
+
+МЕТОДЫ НАВИГАЦИИ
+-------
+
+```driver.navigate().to("http://www.example.com");```
+
+“navigate().to()” и “get()” выполняют одно и то же.
+
+Так же есть методы, которые эмулирую работу браузерных кнопок
+Вперед/Назад
+
+```
+driver.navigate().forward();
+driver.navigate().back();
+```
