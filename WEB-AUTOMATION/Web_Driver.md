@@ -106,9 +106,8 @@ Gradle
 Create first test
 ======
 
-1. Устанавливаем Maven https://www.apache-maven.ru/install.html
-2. Скачиваем chromedriver и запоминаем путь куда его распаковали HTTPS://CHROMEDRIVER.STORAGE.GOOGLEAPIS.
-COM/INDEX.HTML?PATH=2.45/
+1. Устанавливаем Maven (https://www.apache-maven.ru/install.html)
+2. Скачиваем chromedriver и запоминаем путь куда его распаковали (HTTPS://CHROMEDRIVER.STORAGE.GOOGLEAPIS.COM/INDEX.HTML?PATH=2.45/)
 3. Создаем проект File -> New -> Project
 4. Выбираем Maven progect -> НЕ ставим галочку в поле "Create from archetype"
 ![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/WEB-AUTOMATION/Maven.bmp)
