@@ -202,6 +202,8 @@ driver.switchTo().window(handle);
 Метод который позволяет переключится между фреймами.
 ```driver.switchTo().frame("frameName");```
 
+[Что такое фрейм?](http://htmlbook.ru/samhtml/freymy)
+
 МЕТОДЫ НАВИГАЦИИ
 -------
 
