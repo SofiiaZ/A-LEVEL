@@ -102,3 +102,16 @@ Gradle
 Одна крутая вещь о градиенте заключается в том, что это плагиновая система . Это означает, что если у вас есть собственный язык программирования и вы хотите автоматизировать задачу создания какого-либо пакета (выходного JAR для Java) из источников, вы можете написать полный плагин в Java или Groovy (или Kotlin), и Распространить его на остальной мир.
 
 [Полная информация о Gradle](https://gradle.org/)
+
+Create first test
+======
+
+1. Устанавливаем Maven https://www.apache-maven.ru/install.html
+2. Скачиваем chromedriver и запоминаем путь куда его распаковали HTTPS://CHROMEDRIVER.STORAGE.GOOGLEAPIS.
+COM/INDEX.HTML?PATH=2.45/
+3. Создаем проект File -> New -> Project
+4. Выбираем Maven progect -> НЕ ставим галочку в поле "Create from archetype"
+![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/WEB-AUTOMATION/Maven.bmp)
+5. Заполняем обязательные поля -> Finish
+ 
+:heavy_check_mark: Проект создан!
