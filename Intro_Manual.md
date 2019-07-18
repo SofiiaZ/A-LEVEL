@@ -1,22 +1,21 @@
 Course agenda
 ---------------
 
-1. Theory basics
-2. Issue/Defects management
-3. Test artifacts
-4. SDLC, Test Planning, Estimation
-5. Technical skills (HTML&CSS, SQL, CVS, API Testing etc.)
-6. Interview 
+1. Теоретические знания
+2. Дефекты. Создание и приоритезация
+3. Тестовые артифакты
+4. Цикл разработки ПО, планирование тестирования, эстимация
+5. Технические знания (СVS, API Testing etc.)
+6. Интрервью 
 
-Our Interaction
+Взаимодействие
 ---------------
 
-+ Ask questions; 
-+ Useful info in the end of presentation; 
-+ HW is a must; 
-+ Course is just the basis - study hard at home; 
-+ Understanding is a key; 
-+ Each day find out something new:) 
++ задавайте вопросы
++ читайте полезные ссылки к занятиям
++ обязательное выполнение ДЗ
++ занятия дома состовляют 60% ваших знаний
++ каждый день узнавайте что-то новое:) 
 
 ![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/WhoAreYou.jpg)
 
