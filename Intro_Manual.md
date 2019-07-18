@@ -83,7 +83,7 @@
 ![Image alt](https://github.com/SofiiaZ/A-LEVEL/blob/master/Quality.jpg)
 
 В 1979 году Crosby определил качество как «соответствие требованиям» («conformance to requirements»), а Juran и Gryna в 1970 году определили качество как «пригодность к использованию»(«fitness for use»).    
-Crosby, P.B., Quality Is Free, McGraw-Hill, New York, 1979
+Crosby, P.B., Quality Is Free, McGraw-Hill, New York, 1979   
 Juran, j.M and Gryna, F.M, Quality Planning and Analysis, McGraw-Hill, New York, 1970
 
 **«Соответствие требованиям»** предполагает, что требования должны быть настолько четко определены, что не могут быть поняты и интерпретированы некорректно. Любые несоответствия должны рассматриваться как дефекты – отсутствие качества.      
