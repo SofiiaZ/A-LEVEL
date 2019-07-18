@@ -62,12 +62,7 @@ Our Interaction
 Верификация всегда проходит без запуска кода.    
 Верификация использует методы — reviews, walkthroughs, inspections, etc.    
 Верификация отвечает на вопрос “Делаем ли мы продукт правильно?”    
-Верификация поможет определить, является ли программное обеспечение высокого качества, но оно не гарантирует, что система полезна.     Проверка связана с тем, что система хорошо спроектирована и безошибочна.    
-Верификация происходит до Validation.    
-Она содержит все активности которые позволяют достигнуть высокого качества программного обеспечения:    
-Inspection in software engineering, refers to peer review of any work product by trained individuals who look for defects using a well defined process. (Fagan inspection)    
-Walkthroughs In software engineering, a walkthrough or walk-through is a form of software peer review «in which a designer or programmer leads members of the development team and other interested parties go through a software product, and the participants ask questions and make comments about possible errors, violation of development standards, and other problems».     
-Reviews In software development, peer review is a type of software review in which a work product (document, code, or other) is examined by its author and one or more colleagues, in order to evaluate its technical content and quality.     
+Верификация поможет определить, является ли программное обеспечение высокого качества, но оно не гарантирует, что система полезна.     Проверка связана с тем, что система хорошо спроектирована и безошибочна.      
 
 **Валидация (validation)** – это процесс оценки конечного продукта, необходимо проверить, соответствует ли программное обеспечение ожиданиям и требованиям клиента. Это динамический механизм проверки и тестирования фактического продукта.     
 Валидация всегда включает в себя запуск кода программы.    
