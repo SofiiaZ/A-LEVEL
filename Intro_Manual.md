@@ -105,13 +105,13 @@ Reviews In software development, peer review is a type of software review i
 ---------------
 ● https://habrahabr.ru/post/221447/    
 ● https://dou.ua/lenta/articles/how-to-qa/    
-● http://software-testing.ru/library/testing/general-testing/2671-5-trends-fu ture-software-testing     
+● http://software-testing.ru/library/testing/general-testing/2671-5-trends-future-software-testing     
 ● https://bytextest.ru/2017/12/18/testing-trends-2018/     
 ● http://istqbexamcertification.com/what-is-software-testing/      
 ● http://istqbexamcertification.com/what-is-verification-in-software-testingor-what-is-software-verification/      
-● http://istqbexamcertification.com/what-is-validation-in-software-testing-o r-what-is-software-validation/    
+● http://istqbexamcertification.com/what-is-validation-in-software-testing-or-what-is-software-validation/    
 ● https://www.functionize.com/blog/quality-assurance-vs-quality-control-vstesting-whats-the-difference/       
 ● https://qalight.com.ua/baza-znaniy/qa-qc-i-testirovanie/      
-● https://qalight.com.ua/baza-znaniy/kachestvo-programmnogo-obespeche niya/     
+● https://qalight.com.ua/baza-znaniy/kachestvo-programmnogo-obespecheniya/     
 ● Савин Р. “Тестирование DOT COM или Пособие по жестокому обращению с багами в интернет-стартапах”      
 ● Lee Copeland “A Practitioner’s Guide to Software Test Design”      
